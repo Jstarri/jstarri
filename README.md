@@ -7,4 +7,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstarri&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=zaireali649%2Fjstarri&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=zaireali649%2Fzaireali649)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=jstarri%2Fjstarri&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=jstarri%2Fjstarri)
